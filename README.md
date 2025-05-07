@@ -1,1 +1,2 @@
-#digital bhem
+# DIGITAL BHEM
+Simple Python Music Player
